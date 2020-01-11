@@ -6,7 +6,7 @@ int main()
 	setlocale(LC_ALL,"russian");
 	int x, y;
 	cout << ("Введите х: ");
-	cin >> x
+	cin >> x;
 	cout << ("Введите у: ");
 	cin >> y;
 	while (1)
